@@ -9,7 +9,7 @@
       </Author>
       <Title>Demo1Test</Title>
       <Description>
-		First version - Demo asdfasdfsafsdafsdfasdf
+		First version - Demo
       </Description>
       <Document ConversionType="Html">.\Demo.docx</Document>
       <Setup ConversionType="None"></Setup>      
