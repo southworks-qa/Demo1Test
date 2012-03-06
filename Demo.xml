@@ -10,6 +10,7 @@
       <Title>Demo1Test</Title>
       <Description>
 		First version - Demo
+		test test test
       </Description>
       <Document ConversionType="Html">.\Demo.docx</Document>
       <Setup ConversionType="None"></Setup>      
