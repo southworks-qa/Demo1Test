@@ -11,6 +11,7 @@
       <Description>
 		First version - Demo
 		test test test
+		more testing
       </Description>
       <Document ConversionType="Html">.\Demo.docx</Document>
       <Setup ConversionType="None"></Setup>      
