@@ -2,6 +2,9 @@
 <Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
       <Id>Demo1Test</Id>
+      <Technologies>
+      	<Technology>Windows Server AppFabric</Technology>
+      </Technologies>
       <Author>
         <Blog></Blog>
         <Email></Email>
