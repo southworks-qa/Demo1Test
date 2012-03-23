@@ -12,7 +12,8 @@
       </Author>
       <Title>Demo1Test</Title>
       <Description>
-		First version - Demo (TEST: changesettttttt number 2)
+		First version - Demo (TEST: changeset number 2)
+		Test changeset 3
       </Description>
       <Document ConversionType="Html">.\Demo.docx</Document>
       <Setup ConversionType="None"></Setup>      
