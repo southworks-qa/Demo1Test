@@ -4,6 +4,7 @@
       <Id>Demo1Test</Id>
       <Technologies>
       	<Technology>Windows Server AppFabric</Technology>
+      	<Technology>Windows Phone</Technology>
       </Technologies>
       <Author>
         <Blog></Blog>
