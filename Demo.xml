@@ -9,7 +9,7 @@
       <Author>
         <Blog></Blog>
         <Email></Email>
-        <Name>Demo Maker</Name>
+        <Name>Demo Marker</Name>
       </Author>
       <Title>Demo1Test</Title>
       <Description>
@@ -18,6 +18,6 @@
       </Description>
       <Document ConversionType="Html">.\Demo.docx</Document>
       <Setup ConversionType="None"></Setup>      
-      <Version>2.0.5</Version>
+      <Version>1.0.6</Version>
       <Source>.</Source>  
 </Demo>
