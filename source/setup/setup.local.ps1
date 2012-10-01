@@ -13,6 +13,6 @@ if($userSettingsFile -eq $nul -or $userSettingsFile -eq "")
 
 write-host "========= Opening a web page in IE... ========="
 
-Start-IE -URLs www.microsoft.com
+Open-IE -URLs www.microsoft.com
 
 write-host "========= Setup completed successfully =========" -ForegroundColor Green
