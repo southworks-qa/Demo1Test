@@ -2,14 +2,13 @@
 setlocal
 CD /d "%~dp0"
 
-REM Removed Admin Priviledge Requirement
-REM ::Test If script has Admin Priviledges/is elevated
-REM REG QUERY "HKU\S-1-5-19"
-REM IF %ERRORLEVEL% NEQ 0 (
-REM     ECHO Please run this script as an administrator
-REM     pause
-REM     EXIT /B 1
-REM )
+::Test If script has Admin Priviledges/is elevated
+REG QUERY "HKU\S-1-5-19"
+IF %ERRORLEVEL% NEQ 0 (
+    ECHO Please run this script as an administrator
+    pause
+    EXIT /B 1
+)
 
 cls
 
